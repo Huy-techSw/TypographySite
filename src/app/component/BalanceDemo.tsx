@@ -33,7 +33,7 @@ export default function BalanceDemo() {
           <div className="text-left mb-2">
             <h2 className="text-5xl font-black text-purple-600 mb-1">HUGE OVERWHELMING TITLE</h2>
             <p className="text-xs text-gray-400 leading-tight mb-1">
-              tiny cramped text that's hard to read and creates visual tension
+              tiny cramped text that&apos;s hard to read and creates visual tension
             </p>
             <button className="bg-red-600 text-white px-2 py-1 text-xs rounded">Button</button>
           </div>

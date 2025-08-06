@@ -10,7 +10,7 @@ export default function ContrastPage() {
           <h1 className="principle-title text-balance">Contrast</h1>
           <p className="principle-description text-gray-600">
             Contrast is the difference between design elements that makes them stand out from one another. In
-            typography, contrast helps create visual interest, improve readability, and guide the reader's attention to
+            typography, contrast helps create visual interest, improve readability, and guide the reader&apos;s attention to
             the most important information.
           </p>
         </div>
