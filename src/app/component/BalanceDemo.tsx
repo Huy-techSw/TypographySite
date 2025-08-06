@@ -13,7 +13,7 @@ export default function BalanceDemo() {
           <div className="space-y-4">
             <h2 className="text-3xl font-bold text-gray-900">Beautiful Typography</h2>
             <p className="text-lg text-gray-600 leading-relaxed">
-              This layout demonstrates proper balance through strategic use of whitespace, appropriate sizing, and
+              This layout demonstrates proper balance through strategic use of whitespace&apos; appropriate sizing&apos; and
               thoughtful placement of elements.
             </p>
             <button className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors">

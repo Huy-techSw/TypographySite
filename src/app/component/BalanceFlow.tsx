@@ -49,8 +49,8 @@ export default function BalanceFlow() {
             <div className="space-y-8">
               <h3 className="text-3xl font-bold text-white mb-6">Visual Equilibrium</h3>
               <p className="text-lg text-gray-300 leading-relaxed">
-                Balance in typography isn't just about symmetry. It's about creating visual stability through thoughtful
-                arrangement of elements, considering their visual weight, position, and relationship to whitespace.
+                Balance in typography isn&apos;t just about symmetry. It&apos;s about creating visual stability through thoughtful
+                arrangement of elements&apos; considering their visual weight&apos; position&apos; and relationship to whitespace.
               </p>
 
               <div className="space-y-4">
